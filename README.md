@@ -36,9 +36,10 @@
 ### Modules used: 
 If installed , pip install {name}
 ------------------------------------
+- base64 🔰
 - telethon 🔰
 - prettytable 🔰
-- colorama (Required for Windows) 🤓
+- colorama (Required for Windows) 🔰
 ------------------------------------
 
 ## Support from
